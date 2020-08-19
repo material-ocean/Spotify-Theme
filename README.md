@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/material-ocean/Material-Ocean-Spotify-Theme/master/screenshot.png)
+![screenshot](./screenshot.png)
 
 ### Features:
 
@@ -8,10 +8,11 @@
 
 ### Installation:
 
-- install [spicetify](https://github.com/khanhas/Spicetify)
+- install [spicetify](https://github.com/khanhas/spicetify-cli)
 - Download or clone this repo
-- copy Material-Ocean folder to `$HOME/.config/spicetify/themes`
-- update `current_theme` and `color_scheme` in your `config.ini`
+- `cp Material-Ocean $HOME/.config/spicetify/themes`
+- set `current_theme` to `Material-Ocean` in your `config.ini`
+- set `color_scheme` to `Ocean` in your `config.ini`
 - Apply the new settings via `spicetify apply`
 
 ### License:
