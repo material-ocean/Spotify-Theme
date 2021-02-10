@@ -10,7 +10,7 @@
 
 - install [spicetify](https://github.com/khanhas/spicetify-cli)
 - Download or clone this repo
-- `cp Material-Ocean $HOME/.config/spicetify/Themes`
+- `cp Material-Ocean $HOME/.config/spicetify/Themes/Material-Ocean`
 - set `current_theme` to `Material-Ocean` in your `config.ini`
 - set `color_scheme` to `Ocean` in your `config.ini`
 - Apply the new settings via `spicetify apply`
