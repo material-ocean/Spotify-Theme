@@ -305,7 +305,7 @@ Change text color in playlist
 .card-type-episode .card-info-title {
   font-size: 15px;
   font-weight: 900 !important;
-  text-align: center !important;
+  text-align: left !important;
   width: 100% !important;
 }
 
@@ -313,7 +313,7 @@ Change text color in playlist
 .card-type-track .card-info-subtitle-links,
 .card-type-collection-album .card-info-subtitle-links,
 .card-type-episode .card-info-subtitle-links {
-  text-align: center !important;
+  text-align: left !important;
   width: 100% !important;
 }
 
