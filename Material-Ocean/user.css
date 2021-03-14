@@ -15,9 +15,6 @@ body {
   font-family: San Francisco Display, sans-serif;
 }
 
-/** {
-	font-family:Google Sans;
-}*/
 /*Round corner cover image*/
 .card-image,
 .card-placeholder-wrapper,
@@ -26,6 +23,12 @@ body {
 .Card:not(.Card--artist) .Card__image-wrapper {
   border-radius: 10px !important;
   overflow: hidden !important;
+}
+
+/* prevent top cards row being cutoff in artist page */
+
+li.release-node {
+  margin-top: 16px;
 }
 
 /*Hide some annoying elements like profile name and pic, upgrade button and device connect bar at bottom, new playlist button*/
