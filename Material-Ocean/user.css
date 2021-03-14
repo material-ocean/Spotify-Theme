@@ -737,3 +737,8 @@ body.remotebar .view-player .player-bar-wrapper {
 .Header__image-inner {
   box-shadow: unset;
 }
+
+/* explicit text color */
+.TableCellSong__label {
+  color: unset !important;
+}
