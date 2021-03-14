@@ -548,8 +548,9 @@ body:not(.body-container--windows)
   .glue-page-header__title,
 .glue-page-header.glue-page-header--playlist
   .glue-page-header__content-inner
-  .glue-page-header__title {
-  margin-top: 10px;
+  .glue-page-header__title,
+.glue-page-header__content .glue-page-header__meta-info {
+  margin-top: 30px !important;
 }
 
 span.glue-page-header__title-text {
