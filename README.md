@@ -1,15 +1,9 @@
 ![screenshot](./screenshot.png)
 
-### Features:
-
-- uses spicetify for easier installation and update
-- everything themed
-- new bottom bar style
-
 ### Requirements
 
 - spicetify 2+
-- Spotify with new UI (1:1.1.56+)
+- Spotify with new UI (1.1.56+)
 - for spotify with old UI checkout the old branch
 
 ### Installation:
