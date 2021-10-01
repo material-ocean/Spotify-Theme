@@ -134,7 +134,7 @@ input {
 
 /* left menu active item background */
 .main-navBar-navBarLinkActive {
-  color: var(--spice-button) !important;
+  color: white;
 }
 
 /* profile icon */
