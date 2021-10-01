@@ -141,3 +141,9 @@ input {
 .main-entityHeader-imagePlaceholder {
   color: unset;
 }
+
+/* left menu create playlist, liked songs and episodes button background */
+a.main-collectionLinkButton-collectionLinkButton.main-collectionLinkButton-selected.active,
+.main-createPlaylistButton-button:hover {
+  background-color: var(--spice-button) !important;
+}
