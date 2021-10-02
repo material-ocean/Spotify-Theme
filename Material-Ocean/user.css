@@ -147,3 +147,8 @@ a.main-collectionLinkButton-collectionLinkButton.main-collectionLinkButton-selec
 .main-createPlaylistButton-button:hover {
   background-color: var(--spice-button) !important;
 }
+
+/* Context Menu */
+.main-contextMenu-menu {
+  background-color: var(--spice-misc) !important;
+}
