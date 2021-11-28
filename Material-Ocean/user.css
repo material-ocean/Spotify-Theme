@@ -152,3 +152,8 @@ a.main-collectionLinkButton-collectionLinkButton.main-collectionLinkButton-selec
 .main-contextMenu-menu {
   background-color: var(--spice-misc) !important;
 }
+
+/* Experimental features background */
+.main-trackCreditsModal-container {
+  background-color: var(--spice-misc) !important;
+}
