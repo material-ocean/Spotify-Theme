@@ -157,3 +157,9 @@ a.main-collectionLinkButton-collectionLinkButton.main-collectionLinkButton-selec
 .main-trackCreditsModal-container {
   background-color: var(--spice-misc) !important;
 }
+
+/* device showing menu */
+.main-connectBar-connectBar.mVVxN9ZfIRjiQfDuzPCZ {
+  background-color: var(--spice-button) !important;
+  color: var(--text-base);
+}
