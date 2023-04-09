@@ -163,3 +163,13 @@ a.main-collectionLinkButton-collectionLinkButton.main-collectionLinkButton-selec
   background-color: var(--spice-button) !important;
   color: var(--text-base);
 }
+
+/*Liked heart button*/
+.main-addButton-active {
+  color: var(--spice-button);
+}
+
+/*heart button*/
+.control-button-heart[aria-checked="true"] {
+  color: var(--spice-button);
+}
